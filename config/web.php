@@ -46,6 +46,7 @@ $config = [
                         'index' => 'site/index',
                         'login' => 'site/login',
                         'about' => 'site/about',
+                        'status' => 'status/create',
 
 
                         ]
